@@ -1,2 +1,1 @@
-# web3payhub-client-onboarding
-Client onboarding tools and documentation for Web3PayHub platform implementation.
+This README outlines the Web3PayHub client onboarding process. It includes documentation, checklists, and optional integration modules designed to help clients go live quickly and with full confidence—no technical setup required.
